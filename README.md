@@ -7,7 +7,7 @@ Skills
  <img src="https://img.shields.io/badge/Git-3F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-red?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-grey?style=flat-square&logo=Notion&logoColor=white"/>
  
 
-![Ottuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottuck&show_icons=true&theme=solarized-light)
+![Ottuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottuck&show_icons=true&theme=flag-india)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
