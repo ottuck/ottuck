@@ -1,8 +1,8 @@
-🙌 Hi there! I am a student studying to become a full stack developer in Korea🇰🇷
-Now I'm preparing to work as a developer in Japan🇯🇵
+🙌 Hi there! I am a student studying to become a full stack developer in Korea🇰🇷<br>
+Now I'm preparing to work as a developer in Japan🇯🇵<br><br>
 
-I love photos and coffee, clothes.
-I'm gonna be a awsome developer
+I love photos📷 and coffee☕️, clothes🩳<br>
+I'm gonna be a awsome developer!🧑‍💻
 
 💪 Skills
 
