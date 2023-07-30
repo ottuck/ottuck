@@ -19,12 +19,13 @@
      <img src="https://img.shields.io/badge/Java-4B4B77?style=flat-square&logo=Java&logoColor=black"/>
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
      <h3>💾 Database</h3>
      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
      <img src="https://img.shields.io/badge/MariaDB-blue?style=flat-square&logo=MariaDB&logoColor=white"/>
      <h3>📱 Application</h3>
-     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=White"/>
+     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/>
      
   </div>
   <div>
