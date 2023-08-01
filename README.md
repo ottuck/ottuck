@@ -26,15 +26,9 @@
      <img src="https://img.shields.io/badge/MariaDB-blue?style=flat-square&logo=MariaDB&logoColor=white"/>
      <h3>📱 Application</h3>
      <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/>
-     
   </div>
   <div>
+  <br>
     
   ![Ottuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottuck&show_icons=true&theme=flag-india)
   </div>
-  <div>
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  
-</div>
