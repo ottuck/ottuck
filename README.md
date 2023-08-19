@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ottucks&nbsp;Home&fontSize=90" />
   
   <h1>Hi there! </h1>
-   I am a student studying to become a full stack developer in Korea🇰🇷<br>
-   Now I'm preparing to work as a developer in Japan🇯🇵<br><br>
-   I love photos📷 and coffee☕️, clothes🩳<br>
    I'm gonna be a awsome developer!<br><br>
   <h2> Skills</h2>
   <div>
