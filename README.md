@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ottucks&nbsp;Home&fontSize=90" />
   
-  <h1>Hi there! </h1>
-   I'm gonna be a awsome developer!<br><br>
-  <h2> Skills</h2>
+  <h1> Skills</h1>
   <div>
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
      <img src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
