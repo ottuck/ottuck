@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ottucks&nbsp;Home&fontSize=90" />
-  
-  <h1> Skills</h1>
   <div>
      <img src="https://img.shields.io/badge/spring-EFEFEF?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
      <img src="https://img.shields.io/badge/flutter-AFEEEE?style=for-the-badge&logo=flutter&logoColor=483D8B"/>
