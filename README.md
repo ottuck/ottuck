@@ -1,18 +1,37 @@
 <div align="center">
-  <div>
-     <img src="https://img.shields.io/badge/spring-EFEFEF?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-     <img src="https://img.shields.io/badge/flutter-AFEEEE?style=for-the-badge&logo=flutter&logoColor=483D8B"/>
-     <img src="https://img.shields.io/badge/react_native-313131?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7BB07"/><br>      
-     <img src="https://img.shields.io/badge/Oracle-EFEFEF?style=for-the-badge&logo=Oracle&logoColor=F80000"/>
-     <img src="https://img.shields.io/badge/MySQL-EFEFEF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-     <img src="https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=firebase&logoColor=FFCA28"/><br>
-     <img src="https://img.shields.io/badge/docker-EFEFEF?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-     <img src="https://img.shields.io/badge/amazon_ec2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=FF9900"/>
-     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </div>
-  <div>
-  <br>
-    
-  ![Ottuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottuck&show_icons=true&theme=flag-india)
-  </div>
+  <!-- wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=ottuck&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20in%20Tokyo&descAlign=50&descAlignY=60&color=E0C3FC" />
+  <br/>
+  
+  <!-- skill badge -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-5A5A5A?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-8C8C8C?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</div>
+
+---
+
+### About
+- Backend engineer based in Japan 🇯🇵
+- Building backend systems with Kotlin / Java and Spring Boot
+- Focused on clean architecture, DDD, and maintainable design
+- Continuously improving problem-solving and system design skills
+
+---
+
+<div align="center">
+  
+<!-- github status -->
+<img 
+  src="https://gh-readme-profile.vercel.app/api?username=ottuck&theme=lavender" 
+  />
+
+<!-- gitanimals: farm mode (내 펫 전체 농장) -->
+<a href="https://gitanimals.org/en_US?utm_medium=github&utm_source=profile&utm_content=ottuck">
+  <img src="https://render.gitanimals.org/farms/ottuck" width="720" />
+</a>
+
+</div>
