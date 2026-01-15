@@ -31,7 +31,7 @@
 
 <!-- gitanimals: farm mode (내 펫 전체 농장) -->
 <a href="https://gitanimals.org/en_US?utm_medium=github&utm_source=profile&utm_content=ottuck">
-  <img src="https://render.gitanimals.org/farms/ottuck" width="720" />
+  <img src="https://render.gitanimals.org/farms/ottuck" width="600" />
 </a>
 
 </div>
