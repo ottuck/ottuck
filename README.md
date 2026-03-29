@@ -1,6 +1,6 @@
 <div align="center">
   <!-- wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=ottuck&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20in%20Tokyo&descAlign=50&descAlignY=60&color=E0C3FC" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Henry&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20in%20Tokyo&descAlign=50&descAlignY=60&color=E0C3FC" />
   <br/>
   
   <!-- skill badge -->
