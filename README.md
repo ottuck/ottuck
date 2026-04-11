@@ -15,10 +15,11 @@
 ---
 
 ### About
-- Backend engineer based in Japan 🇯🇵
-- Building backend systems with Kotlin / Java and Spring Boot
-- Focused on clean architecture, DDD, and maintainable design
-- Continuously improving problem-solving and system design skills
+- 🇯🇵 Backend engineer based in Tokyo
+- A rare career journey: spent my 20s as a hairstylist and became a backend engineer in my 30s
+- I enjoy building reliable backend systems with Kotlin, Java, and Spring Boot
+- Passionate about clean architecture, Domain-Driven Design, and writing maintainable code
+- Always learning and striving to grow as a developer
 
 ---
 
