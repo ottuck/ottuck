@@ -1,4 +1,4 @@
-### Hi, I'm Henry (Sanghyun Kim) 👋
+### Hi, I'm Sanghyun Kim 👋
 
 Backend engineer in Tokyo. At work I build payment and finance systems with Java, Kotlin and Spring. After hours I build small products of my own, and keep them running.
 
