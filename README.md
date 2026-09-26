@@ -17,3 +17,14 @@ Before software, I spent my twenties as a hairstylist.
 #### Usually working with
 
 Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · TypeScript
+
+<br />
+
+<a href="https://www.portfolio-hub.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Sanghyun Kim's portfolio with UR check and Pokepedia" />
+  </picture>
+</a>
+
+<p align="center"><a href="https://www.portfolio-hub.dev"><b>See the projects at portfolio-hub.dev →</b></a></p>
