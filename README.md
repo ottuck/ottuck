@@ -1,4 +1,4 @@
-### Hi, I'm Sanghyun Kim 👋
+### Hi, I'm Henry Kim 👋
 
 Backend engineer in Tokyo. At work I build payment and finance systems with Java, Kotlin and Spring. After hours I build small products of my own, and keep them running.
 
@@ -23,7 +23,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Sanghyun Kim's portfolio with UR check and Pokepedia" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check and Pokepedia" />
   </picture>
 </a>
 
