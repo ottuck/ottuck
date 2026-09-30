@@ -13,8 +13,8 @@ Before software, I spent my twenties as a hairstylist.
   <sub>Spring Boot · Azure Container Apps · Terraform</sub>
 - **[Pokepedia](https://pokepedia.dev)** — A Gen 1 Pokédex with a Game Boy–style silhouette quiz, in Korean, English and Japanese. [Source](https://github.com/ottuck/pokepedia)  
   <sub>Next.js · Supabase · Vercel</sub>
-- **[buddy-chat](https://buddy.pokepidia.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web.  
-  <sub>Expo · Spring WebFlux · MongoDB · Azure</sub>
+- **[puny-chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/buddy-chat)  
+  <sub>Expo · Spring WebFlux · MongoDB Atlas · Railway · Cloudflare</sub>
 - **Trading bot** — In progress.
 
 #### Usually working with
@@ -26,7 +26,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, Pokepedia and buddy-chat" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, Pokepedia and puny-chat" />
   </picture>
 </a>
 
