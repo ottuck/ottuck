@@ -15,7 +15,8 @@ Before software, I spent my twenties as a hairstylist.
   <sub>Next.js · Supabase · Vercel</sub>
 - **[puny-chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/buddy-chat)  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · Railway · Cloudflare</sub>
-- **Trading bot** — In progress.
+- **Quant Lab** — Backtests rule-based strategies on US stocks and paper-trades them on a schedule, explaining each decision in plain words. Private, in progress.  
+  <sub>Python · FastAPI · PostgreSQL · React · Docker · Tailscale</sub>
 
 #### Usually working with
 
@@ -26,7 +27,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, Pokepedia and puny-chat" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, Pokepedia, puny-chat and Quant Lab" />
   </picture>
 </a>
 
