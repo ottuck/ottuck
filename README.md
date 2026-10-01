@@ -11,7 +11,7 @@ Before software, I spent my twenties as a hairstylist.
 
 - **[UR check](https://ur-check.com)** — Email alerts when a UR apartment that matches your search opens up in Tokyo.  
   <sub>Spring Boot · Azure Container Apps · Terraform</sub>
-- **[Pokepedia](https://pokepedia.dev)** — A Gen 1 Pokédex with a Game Boy–style silhouette quiz, in Korean, English and Japanese. [Source](https://github.com/ottuck/pokepedia)  
+- **[Pokepedia](https://pokepedia.dev)** — A Game Boy–style “Who's that Pokémon?” battle with a Gen 1 Pokédex, in Korean, English and Japanese. [Source](https://github.com/ottuck/pokepedia)  
   <sub>Next.js · Supabase · Vercel</sub>
 - **[puny-chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/buddy-chat)  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · Railway · Cloudflare</sub>
