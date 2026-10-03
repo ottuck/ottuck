@@ -15,8 +15,8 @@ Before software, I spent my twenties as a hairstylist.
   <sub>Next.js · Supabase · Vercel</sub>
 - **[puny-chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/buddy-chat)  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · Railway · Cloudflare</sub>
-- **Quant Lab** — Backtests rule-based strategies on US stocks and paper-trades them on a schedule, explaining each decision in plain words. Private, in progress.  
-  <sub>Python · FastAPI · PostgreSQL · React · Docker · Tailscale</sub>
+- **[Quant Lab](https://demo.trading-lab.me)** — A bot that copies how you invest in US stocks, then shows how it would have gone and what to buy next. Paper trading; the demo runs on synthetic prices.  
+  <sub>Python · FastAPI · PostgreSQL · React · Docker · Cloudflare</sub>
 
 #### Usually working with
 
