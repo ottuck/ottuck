@@ -11,6 +11,8 @@ Before software, I spent my twenties as a hairstylist.
 
 - **[UR check](https://ur-check.com)** — Email alerts when a UR apartment that matches your search opens up in Tokyo.  
   <sub>Spring Boot · Azure Container Apps · Terraform</sub>
+- **ur-mcp** — An MCP server that lets Claude and ChatGPT search UR rental vacancies without getting them wrong, and catch new rooms three times a day.  
+  <sub>TypeScript · MCP · Hono · SQLite · Railway</sub>
 - **[Pokepedia](https://pokepedia.dev)** — A Game Boy–style “Who's that Pokémon?” battle with a Gen 1 Pokédex, in Korean, English and Japanese. [Source](https://github.com/ottuck/pokepedia)  
   <sub>Next.js · Supabase · Vercel</sub>
 - **[puny-chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/buddy-chat)  
@@ -27,7 +29,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, Pokepedia, puny-chat and Quant Lab" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, ur-mcp, Pokepedia, puny-chat and Quant Lab" />
   </picture>
 </a>
 
