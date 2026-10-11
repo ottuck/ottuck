@@ -34,11 +34,10 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 </a>
 
 <p align="center"><a href="https://www.portfolio-hub.dev"><b>See the projects at portfolio-hub.dev →</b></a></p>
+
 <br />
+
+
 <p align="center">
-  <img src="https://botanical-garden.ottuck.workers.dev/ottuck"
-       width="320"
-       alt="My GitHub botanical garden" />
-  <br />
-  <sub>A little garden grown from my GitHub activity. Built by me.</sub>
+  <a href="https://botanical-garden.ottuck.workers.dev/ottuck?motion=breeze"><img src="https://botanical-garden.ottuck.workers.dev/ottuck?motion=breeze" width="360" alt="GitLeaf — a year of GitHub contributions in gently swaying leaves" /></a>
 </p>
