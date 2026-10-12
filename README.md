@@ -9,16 +9,18 @@ Before software, I spent my twenties as a hairstylist.
 
 #### Things I've built
 
-- **[UR check](https://ur-check.com)** — Email alerts when a UR apartment that matches your search opens up in Tokyo.  
+- **[UR Manager](https://www.portfolio-hub.dev/projects/ur-manager)** — Email alerts when a UR apartment that matches your search opens up in Tokyo. Now being merged with UR MCP App into UR Check.  
   <sub>Spring Boot · Azure Container Apps · Terraform</sub>
-- **ur-mcp** — An MCP server that lets Claude and ChatGPT search UR rental vacancies without getting them wrong, and catch new rooms three times a day.  
+- **[UR MCP App](https://www.portfolio-hub.dev/projects/ur-mcp)** — An MCP server and app that lets Claude and ChatGPT search UR rental vacancies without getting them wrong, show the rooms as cards in the chat, and catch new ones three times a day. Now being merged with UR Manager into UR Check.  
   <sub>TypeScript · MCP · Hono · SQLite · Railway</sub>
 - **[Pokepedia](https://pokepedia.dev)** — A Game Boy–style “Who's that Pokémon?” battle with a Gen 1 Pokédex, in Korean, English and Japanese. [Source](https://github.com/ottuck/pokepedia)  
   <sub>Next.js · Supabase · Vercel</sub>
-- **[puny-chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/buddy-chat)  
+- **[Puny Chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/puny-chat)  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · Railway · Cloudflare</sub>
-- **[Quant Lab](https://demo.trading-lab.me)** — A bot that copies how you invest in US stocks, then shows how it would have gone and what to buy next. Paper trading; the demo runs on synthetic prices.  
-  <sub>Python · FastAPI · PostgreSQL · React · Docker · Cloudflare</sub>
+- **[Quant Lab](https://demo.trading-lab.me)** — A payday investing bot for US stocks that copies your habits, plus AI bots that set the mix every day. They run on my real account at 1/100 scale; the demo runs on synthetic prices.  
+  <sub>Python · FastAPI · PostgreSQL · React · Claude API · Docker · AWS Lightsail</sub>
+- **[GitLeaf](https://botanical-garden.ottuck.workers.dev/ottuck?motion=breeze)** — Paints your year of GitHub contributions as a watercolor plant, one leaf for each day. Paste one line into your README to use it. [Source](https://github.com/ottuck/gitleaf)  
+  <sub>TypeScript · Cloudflare Workers · D1 · R2 · SVG</sub>
 
 #### Usually working with
 
@@ -29,7 +31,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with UR check, ur-mcp, Pokepedia, puny-chat and Quant Lab" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: UR Manager, UR MCP App, Pokepedia, Puny Chat, Quant Lab and GitLeaf" />
   </picture>
 </a>
 
