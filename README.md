@@ -9,7 +9,7 @@ Before software, I spent my twenties as a hairstylist.
 
 #### Things I've built
 
-- **[UR Check](https://www.portfolio-hub.dev/projects/ur-check)** — Search UR rental vacancies by your conditions and keep track of rooms that are new, relisted or gone. The website and AI assistants share the same conditions. Invite only; it grew out of UR Manager and UR MCP App.  
+- **[UR Check](https://www.portfolio-hub.dev/projects/ur-check)** — Search UR rental vacancies by your conditions and keep track of rooms that are new, relisted or gone. The website and AI assistants share the same conditions. Invite only; it grew out of UR Manager and UR MCP App. [Demo](https://demo.ur-check.com)  
   <sub>Bun · Hono · PostgreSQL · React · MCP · AWS Lightsail</sub>
 - **[Puny Chat](https://puny-chat.com/demo)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/puny-chat)  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · AWS Lightsail · Cloudflare</sub>
