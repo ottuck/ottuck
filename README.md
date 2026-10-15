@@ -9,10 +9,10 @@ Before software, I spent my twenties as a hairstylist.
 
 #### Things I've built
 
-- **[UR Check](https://www.portfolio-hub.dev/projects/ur-check)** — Search UR rental vacancies by your conditions and keep track of rooms that are new, relisted or gone. The website and AI assistants share the same conditions. Invite only; it grew out of UR Manager and UR MCP App. [Demo](https://demo.ur-check.com)  
-  <sub>Bun · Hono · PostgreSQL · React · MCP · AWS Lightsail</sub>
 - **[Puny Chat](https://puny-chat.com)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web. [Source](https://github.com/ottuck/puny-chat)  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · AWS Lightsail · Cloudflare</sub>
+- **[UR Check](https://www.portfolio-hub.dev/projects/ur-check)** — Search UR rental vacancies by your conditions and keep track of rooms that are new, relisted or gone. The website and AI assistants share the same conditions. Invite only; it grew out of UR Manager and UR MCP App. [Demo](https://demo.ur-check.com)  
+  <sub>Bun · Hono · PostgreSQL · React · MCP · AWS Lightsail</sub>
 - **[GitLeaf](https://www.portfolio-hub.dev/projects/gitleaf)** — Paints your year of GitHub contributions as a watercolor plant, one leaf for each day. Paste one line into your README to use it. [Source](https://github.com/ottuck/gitleaf)  
   <sub>TypeScript · Cloudflare Workers · D1 · R2 · SVG</sub>
 - **[Quant Lab](https://demo.trading-lab.me)** — A payday investing bot for US stocks that copies your habits, plus AI bots that set the mix every day. They run on my real account at 1/100 scale; the demo runs on synthetic prices.  
@@ -29,7 +29,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: UR Check, Puny Chat, GitLeaf, Quant Lab and Pokepedia" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Puny Chat, UR Check, GitLeaf, Quant Lab and Pokepedia" />
   </picture>
 </a>
 
