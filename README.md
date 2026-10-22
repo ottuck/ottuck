@@ -19,7 +19,7 @@ Before software, I spent my twenties as a hairstylist.
   <sub>Python · FastAPI · PostgreSQL · React · Claude API · Docker · AWS Lightsail</sub>
 - **[Pokepedia](https://pokepedia.dev)** — A Game Boy–style “Who's that Pokémon?” quiz with a Gen 1 Pokédex, in Korean, English and Japanese. Win a Pikachu and it fights Blastoise in a turn-based battle built in Unity. [Source](https://github.com/ottuck/pokepedia) · [Battle source](https://github.com/ottuck/pokepedia-unity)  
   <sub>Next.js · Supabase · Vercel · Unity (C#) · WebGL · Cloudflare Pages</sub>
-- **Henry Wallet** — A self-custody stablecoin wallet for iPhone. It holds USDC and JPYC, keeps the keys on the phone and signs every payment there after Face ID. On testnets for now.  
+- **[Henry Wallet](https://www.portfolio-hub.dev/projects/henry-wallet)** — A self-custody stablecoin wallet for iPhone. It holds USDC and JPYC, keeps the keys on the phone and signs every payment there after Face ID. On testnets for now. [Demo](https://wallet.portfolio-hub.dev)  
   <sub>Expo · TypeScript · ethers · Polygon · Ethereum · Avalanche</sub>
 
 #### Usually working with
