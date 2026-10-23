@@ -31,7 +31,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Puny Chat, UR Check, GitLeaf, Quant Lab, Pokepedia and Henry Wallet" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Puny Chat, UR Check, GitLeaf, Trading Lab, Pokepedia and Henry Wallet" />
   </picture>
 </a>
 
