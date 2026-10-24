@@ -19,6 +19,8 @@ Before software, I spent my twenties as a hairstylist.
   <sub>Python · FastAPI · PostgreSQL · React · Claude API · Docker · AWS Lightsail</sub>
 - **[Pokepedia](https://pokepedia.dev)** — A Game Boy–style “Who's that Pokémon?” quiz with a Gen 1 Pokédex, in Korean, English and Japanese. Win a Pikachu and it fights Blastoise in a turn-based battle built in Unity. [Source](https://github.com/ottuck/pokepedia) · [Battle source](https://github.com/ottuck/pokepedia-unity)  
   <sub>Next.js · Supabase · Vercel · Unity (C#) · WebGL · Cloudflare Pages</sub>
+- **[diagram-polish](https://www.portfolio-hub.dev/projects/diagram-polish)** — A Claude Code skill that turns a Mermaid block or a README sketch into a clean architecture diagram: boxes and arrows in JSON, SVG and PNG out. [Source](https://github.com/ottuck/diagram-polish)  
+  <sub>Claude Code · Node.js · SVG</sub>
 - **[Henry Wallet](https://www.portfolio-hub.dev/projects/henry-wallet)** — A self-custody stablecoin wallet for iPhone. It holds USDC and JPYC, keeps the keys on the phone and signs every payment there after Face ID. On testnets for now. [Demo](https://wallet.portfolio-hub.dev) · [Source](https://github.com/ottuck/stable-wallet)  
   <sub>Expo · TypeScript · ethers · Polygon · Ethereum · Avalanche</sub>
 
@@ -31,7 +33,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Puny Chat, UR Check, GitLeaf, Trading Lab, Pokepedia and Henry Wallet" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Puny Chat, UR Check, GitLeaf, Trading Lab, Pokepedia, diagram-polish and Henry Wallet" />
   </picture>
 </a>
 
