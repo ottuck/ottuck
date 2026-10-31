@@ -9,6 +9,10 @@ Before software, I spent my twenties as a hairstylist.
 
 #### Things I've built
 
+- **[Home Server 3D](https://server.portfolio-hub.dev)** — My AWS Lightsail server as a small 3D server room. The LEDs on the rack light up from the real status of each container. [Source](https://github.com/ottuck/home-server-3d)  
+  <sub>Blender · three.js · Cloudflare Pages · Grafana Cloud</sub>
+- **[diagram-polish](https://www.portfolio-hub.dev/projects/diagram-polish)** — A Claude Code skill that turns a Mermaid block or a README sketch into a clean architecture diagram: boxes and arrows in JSON, SVG and PNG out. [Source](https://github.com/ottuck/diagram-polish)  
+  <sub>Claude Code · Node.js · SVG</sub>
 - **[Puny Chat](https://puny-chat.com)** — A messenger for two, with a tiny pixel buddy you raise together just by chatting. iPhone and web, in Korean, English, Japanese and Chinese.  
   <sub>Expo · Spring WebFlux · MongoDB Atlas · AWS Lightsail · Cloudflare</sub>
 - **[UR Check](https://www.portfolio-hub.dev/projects/ur-check)** — Search UR rental vacancies by your conditions and keep track of rooms that are new, relisted or gone. The website and AI assistants share the same conditions. Invite only; it grew out of UR Manager and UR MCP App. [Demo](https://demo.ur-check.com)  
@@ -21,8 +25,6 @@ Before software, I spent my twenties as a hairstylist.
   <sub>Next.js · Supabase · Vercel · Unity (C#) · WebGL · Cloudflare Pages</sub>
 - **[Henry Wallet](https://www.portfolio-hub.dev/projects/henry-wallet)** — A self-custody stablecoin wallet for iPhone. It holds USDC and JPYC, keeps the keys on the phone and signs every payment there after Face ID. On testnets for now. [Demo](https://wallet.portfolio-hub.dev) · [Source](https://github.com/ottuck/stable-wallet)  
   <sub>Expo · TypeScript · ethers · Polygon · Ethereum · Avalanche</sub>
-- **[diagram-polish](https://www.portfolio-hub.dev/projects/diagram-polish)** — A Claude Code skill that turns a Mermaid block or a README sketch into a clean architecture diagram: boxes and arrows in JSON, SVG and PNG out. [Source](https://github.com/ottuck/diagram-polish)  
-  <sub>Claude Code · Node.js · SVG</sub>
 
 #### Usually working with
 
@@ -33,7 +35,7 @@ Java · Kotlin · Spring Boot · PostgreSQL · Azure · Terraform · Next.js · 
 <a href="https://www.portfolio-hub.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.webp" />
-    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Puny Chat, UR Check, GitLeaf, Trading Lab, Pokepedia, Henry Wallet and diagram-polish" />
+    <img src="images/portfolio-light.webp" alt="portfolio-hub.dev — Henry Kim's portfolio with its projects: Home Server 3D, diagram-polish, Puny Chat, UR Check, GitLeaf, Trading Lab, Pokepedia and Henry Wallet" />
   </picture>
 </a>
 
